@@ -196,3 +196,5 @@ if st.session_state['mbti_result'] is not None:
         st.session_state['mbti_result'] = None
         st.rerun()
     
+    
+    
