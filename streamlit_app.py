@@ -1,6 +1,5 @@
 
 import streamlit as st
-
 # 앱 제목 설정
 st.title("📚 MBTI 학습 유형 진단")
 st.markdown("나에게 맞는 학습 유형은 무엇일까요? 간단한 설문에 답해보세요.")
